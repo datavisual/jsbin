@@ -31,7 +31,6 @@
     "commander": "1.0.0",
     "less": "~1.4.2",
     "jade": "0.26.3",
-    "stylus": "0.28.2",
     "flatten.js": "0.1.0",
     "soak": "0.3.0",
     "async": "~0.1.22",
@@ -48,7 +47,8 @@
     "feature-gateway": "0.0.3",
     "hbs": "~2.4.0",
     "replify": "~1.2.0",
-    "moment": "~2.5.1"
+    "moment": "~2.5.1",
+    "stylus": "~0.42.2"
   },
   "devDependencies": {
     "grunt": "~0.4.1",
